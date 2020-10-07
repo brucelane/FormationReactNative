@@ -1,0 +1,9 @@
+Victor Sabatier
+
+https://reactnative.directory/
+
+http://maxwellito.github.io/es6-quiz-slides/#/
+
+https://codepen.io/gaearon/pen/oWWQNa?editors=0010
+
+https://codesandbox.io/s/brave-currying-5b6um?file=/src/Counter.jsx
