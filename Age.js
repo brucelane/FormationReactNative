@@ -10,12 +10,9 @@ const Project2 = ({ nom, age }) => {
   return <Text>{`Bonjour ${nom}, vous avez ${age} ans`}</Text>;
 };
 const Age: () => React$Node = () => {
-  /*state = {
-    age: 42
-  }*/
   const [age, setAge] = React.useState(42);
   function hb() {
-    setAge( age + 1 );
+    setAge(age + 1);
   }
 
   return (
@@ -25,8 +22,6 @@ const Age: () => React$Node = () => {
       <Project2 nom="toto" age={age} />
     </View>
   );
-
-
 };
 
 const styles = StyleSheet.create({

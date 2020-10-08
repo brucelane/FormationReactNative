@@ -2,10 +2,11 @@ import React from 'react';
 import { AppRegistry, View, StyleSheet } from 'react-native';
 import FlexBoxExercice from './FlexBoxExercice';
 import Age from './Age';
+import Navigator from "./src/containers/Navigator";
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 0.5,
     alignItems: "center",
     justifyContent: "center"
   },
@@ -22,8 +23,9 @@ const styles = StyleSheet.create({
 
 const App = () => (
   <View style={styles.container}>
-    <FlexBoxExercice />
-    <Age />
+    {/* <FlexBoxExercice />
+    <Age /> */}
+    <Navigator />
   </View>
 );
 
