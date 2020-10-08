@@ -7,3 +7,24 @@ http://maxwellito.github.io/es6-quiz-slides/#/
 https://codepen.io/gaearon/pen/oWWQNa?editors=0010
 
 https://codesandbox.io/s/brave-currying-5b6um?file=/src/Counter.jsx
+
+https://github.com/dabbott/javascript-playgrounds
+
+https://github.com/FormidableLabs/spectacle
+
+https://codesandbox.io/s/52x1871vjl
+
+ui
+https://reactnativeelements.com/
+ui mieux:
+https://callstack.github.io/react-native-paper/
+
+composants
+https://www.awesome-react-native.com/
+
+https://reactnative.dev/docs/flexbox
+
+
+
+
+
