@@ -24,7 +24,7 @@ https://www.awesome-react-native.com/
 
 https://reactnative.dev/docs/flexbox
 
-
+https://blog.sogilis.fr/posts/2014-12-09-git-windows-unix-problemes-eol/
 
 
 
